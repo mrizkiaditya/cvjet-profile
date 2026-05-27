@@ -1,4 +1,3 @@
-import React from 'react';
 import jgc from '../assets/clients/jgc.png';
 import asei from '../assets/clients/asei.png';
 import marein from '../assets/clients/marein.png';

@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function Features() {
   return (
     <section id="keunggulan" className="min-h-screen py-24 bg-jet-white flex flex-col justify-center relative overflow-hidden">
