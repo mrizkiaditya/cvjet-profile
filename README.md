@@ -85,7 +85,3 @@ npm run lint
 - `npm run build`: Compiles TypeScript and builds the app for production.
 - `npm run preview`: Previews the production build locally.
 - `npm run lint`: Runs ESLint to find and fix problems.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
