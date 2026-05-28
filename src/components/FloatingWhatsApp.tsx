@@ -1,6 +1,5 @@
 export default function FloatingWhatsApp() {
-  // Ganti nomor ini dengan nomor WhatsApp yang sebenarnya (gunakan kode negara 62)
-  const phoneNumber = "6281234567890";
+  const phoneNumber = "628998147700";
   const defaultMessage = "Halo, saya ingin bertanya mengenai percetakan. Bisa dibantu?";
 
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(defaultMessage)}`;

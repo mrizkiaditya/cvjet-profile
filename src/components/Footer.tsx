@@ -40,7 +40,7 @@ export default function Footer() {
                 </div>
               </a>
 
-              <a href="https://wa.me/08998147700" target="_blank" rel="noreferrer" className="flex items-center gap-4 group w-fit">
+              <a href="https://wa.me/628998147700" target="_blank" rel="noreferrer" className="flex items-center gap-4 group w-fit">
                 <div className="w-14 h-14 bg-white/5 rounded-full flex items-center justify-center text-green-500 border border-white/10 group-hover:bg-green-500 group-hover:text-white transition-all">
                   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z" /></svg>
                 </div>
